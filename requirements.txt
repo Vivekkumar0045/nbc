@@ -1,6 +1,6 @@
 pandas
 numpy
-streamlit
+streamlit>=1.40.0
 scikit-learn
 plotly
 joblib
@@ -8,5 +8,5 @@ google-generativeai
 fastapi
 uvicorn
 requests
-altair<5
+
 
