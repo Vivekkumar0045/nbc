@@ -7,4 +7,6 @@ joblib
 google-generativeai
 fastapi
 uvicorn
+requests
+altair<5
 
